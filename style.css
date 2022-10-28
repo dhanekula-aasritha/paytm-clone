@@ -203,8 +203,332 @@
 	font-size: 19px;
 	padding-bottom: 10%;
 }
+.financial{
+	font-size: 47px;
+	padding-bottom: 10%;
+}
+.sincere{
+	padding: 8% 0%;
+	font-size: 39px;
+}
+.sec5div5{
+	display: flex;
+	justify-content: space-between;
+	padding: 4% 15%;
+	font-family: "Poppins";
+}
+.learn{
+	border: 1px solid;
+	background-color: darkblue;
+	border-radius: 25px;
+	font-size: 20px;
+	padding: 1%;
+	text-decoration: none;
+	width: 20%;
+	text-align: center;
+	color: white;	
+}
+.learn:hover{
+	background-color: skyblue;
+	color: white;
+}
+.sec9{
+	display: flex;
+	padding: 8% 10% 8% 12%;
+	justify-content: space-between;
+}
+.easy{
+	font-size: 25px;
+	padding: 5%;
+}
+.easy h1{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.easy p{
+	margin-bottom: 3%;
+}
+.learn{
+	border: 1px solid;
+	background-color: darkblue;
+	border-radius: 25px;
+	font-size: 20px;
+	margin-bottom: 5%;
+	padding: 1%;
+	text-decoration: none;
+	width: 20%;
+	text-align: center;
+	color: white;
+	
+}
+.learn:hover{
+	background-color: skyblue;
+	color: white;
+}
+.sec10{
+	display: flex;
+	padding: 8% 10% 8% 12%;
+	justify-content: space-between;
+	background-color: rgba(239,239,239,0.6);
+}
+.loan{
+	font-size: 23px;
+}
+.loan h1{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.loan p{
+	margin-bottom: 3%;
+}
+.sec11{
+	padding: 5% 14% 5% 14%;
+	font-size: 30px;
+}
+.online{
+	display: flex;
+	justify-content: space-between;
+	background-color: rgba(239, 239, 239, 0.6);
+	padding: 8% 0% 8% 6% ;
+	margin-top: 4%;
+}
+.accept{
+	font-size: 15px;
+	margin-top: 10%;
+	margin-left: 4%;
+}
+.accept h1{
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 4%;
+	font-size: 35px;
+}
+.accept p{
+	margin-bottom: 7%;
+	font-size: 20px;
+}
+.sec12div1{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	background-size: 100%;
+	padding: 4% 6% 6% 6%;
+	margin-top: 0%;
+	font-family: 'Poppins', sans-serif;
+}
+.sec12child1{
+    padding: 2% 0% 5% 8%;
+    background-color: white;
+    margin-top: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+.sec12child2{
+     padding: 2% 0% 5% 5%;
+    background-color: white;
+    margin-top: 0%;
+}
+.sec12child3{
+     padding: 2% 0.2% 5% 5%;
+    background-color: white;
+    margin-top: 0%;	
+}
+.sec12child4{
+     padding: 2% 12% 5% 3%;
+    background-color: white;
+    margin-bottom: 0%;
+}
+.sec12div1 h1{
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 15%;
+	margin-top: 10%;
+	font-size: 25px
+}
+.sec12div1 p{
+	margin-bottom: 8%;
+	font-size: 18px;
+}
+.tool{
+	font-size: 45px;
+	margin-left: 14%;
+	margin-top: 6%;
+}
+.more{
+	font-size: 16px !important;
+	font-family: 'Poppins', sans-serif;
+}
+.sec13{
+	display: flex;
+	justify-content: space-between;
+	padding: 0% 4% 4% 8%;
+	margin: 5% 0% 5% 5%;
+}
+.sec13div2{
+	display: flex;
+	margin: 0% 5% 4% 8%;
+	text-align: center;
+	color: white;
+}
+.sec13div2 div{
+	margin-right: 2%;
+	background-color: skyblue;
+	padding: 1% 1% 4% 1%;
+	border-radius: 6%;
+}
+.sec13div2 h1{
+	margin-top: 20%;
+	margin-bottom: 0%;
+}
+.sec13div1 p{
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 30%;
+	margin-bottom:5% ;
+
+}
+.child5{
+	color: deepskyblue;
+	font-size: 20px;
+}
+.sec13div2 p{
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+} 
 
 
+
+@media (max-width: 390px){
+	.navigation a{
+		font-size: 3px;
+	}
+}
+#signin{
+	margin-left: 3%;
+}
+.msg{
+	font-size: 7%;
+}
+.India{
+       font-size: 10px;      
+	}
+.recharge{
+	font-size: 10px;
+     }
+.Download{
+	font-size: 5px;
+     }
+.sec2{
+	font-size: 4px;
+     }
+.child1 a{
+	font-size: 10px;
+     }
+.sec4{
+     font-size: 4px;
+     }   
+.sec5{
+	font-size: 5px;
+     } 
+.child3{
+      font-size: 7px;
+     }      
+.online{
+	font-size: 10px;
+     }
+     .load{
+     font-size: 10px;	
+}
+.anyone{
+	font-size: 10px;
+}
+.make{
+	font-size: 8px;
+}
+.want{
+	font-size: 10px;
+}
+.with{
+	font-size: 8px;
+}
+.cash{
+	font-size: 10px;
+}
+.most{
+	font-size: 10px;
+}
+.hdfc{
+	font-size: 8px;
+}
+.financial{
+	font-size: 10px ;
+}
+.sincere{
+	font-size: 10px;
+}
+.bank{
+	font-size: 8px;
+}
+.learn{
+	font-size: 4px;
+}
+.finger{
+	font-size: 10px;
+}
+.easy{
+	font-size: 8px;
+}
+.loan{
+	font-size: 10px;
+}
+.loan p{
+	font-size: 8px;
+}
+.child{
+	font-size: 10px;
+}
+.accept{
+	font-size: 10px;
+}
+.accept p{
+	font-size: 8px;
+}
+.learn{
+	font-size: 2px;
+}
+.accept h1{
+	font-size: 10px;
+}
+.tool{
+	font-size: 10px;
+}
+.sec12div1 h1{
+	font-size: 2px;
+}
+.sec12div1 p{
+	font-size: 8px;
+}
+.more{
+	font-size: 2px;
+}
+.sec13div1 p {
+	font-size: 5px;
+}
+.sec13div2 p {
+	font-size: 5px;
+}
+.sec13div2{
+	font-size: 5px;
+}
+	.child5{
+		font-size: 2px;
+}
+.child5{
+	font-size: 3px;
+}
+.more{
+	font-size: 4px !important;
+}
+}
 
 
 
